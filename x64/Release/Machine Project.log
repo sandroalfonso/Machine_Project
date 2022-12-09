@@ -1,0 +1,52 @@
+﻿  Machine Project.cpp
+D:\School\GRAPHIX\GRAPHIX-Machine-Project-main\GRAPHIX-Machine-Project-main\Model.h(203,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\School\GRAPHIX\GRAPHIX-Machine-Project-main\GRAPHIX-Machine-Project-main\Machine Project.cpp(103,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\School\GRAPHIX\GRAPHIX-Machine-Project-main\GRAPHIX-Machine-Project-main\Machine Project.cpp(103,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\School\GRAPHIX\GRAPHIX-Machine-Project-main\GRAPHIX-Machine-Project-main\Machine Project.cpp(331,41): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\School\GRAPHIX\GRAPHIX-Machine-Project-main\GRAPHIX-Machine-Project-main\Machine Project.cpp(332,43): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\School\GRAPHIX\GRAPHIX-Machine-Project-main\GRAPHIX-Machine-Project-main\Machine Project.cpp(336,41): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\School\GRAPHIX\GRAPHIX-Machine-Project-main\GRAPHIX-Machine-Project-main\Machine Project.cpp(337,43): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\School\GRAPHIX\GRAPHIX-Machine-Project-main\GRAPHIX-Machine-Project-main\Machine Project.cpp(341,41): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\School\GRAPHIX\GRAPHIX-Machine-Project-main\GRAPHIX-Machine-Project-main\Machine Project.cpp(342,43): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\School\GRAPHIX\GRAPHIX-Machine-Project-main\GRAPHIX-Machine-Project-main\Machine Project.cpp(346,41): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\School\GRAPHIX\GRAPHIX-Machine-Project-main\GRAPHIX-Machine-Project-main\Machine Project.cpp(347,43): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\School\GRAPHIX\GRAPHIX-Machine-Project-main\GRAPHIX-Machine-Project-main\Machine Project.cpp(384,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\School\GRAPHIX\GRAPHIX-Machine-Project-main\GRAPHIX-Machine-Project-main\Machine Project.cpp(385,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 2255 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Machine Project.vcxproj -> D:\School\GRAPHIX\GRAPHIX-Machine-Project-main\GRAPHIX-Machine-Project-main\x64\Release\Machine Project.exe
